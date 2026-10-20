@@ -43,3 +43,12 @@ SQLite（`alerts.db`）— アラート情報と最終チェック時刻のみ�
 - [japan-kakaku-price-search](https://apify.com/store/actors/japan-kakaku-price-search) — Apify Store actor (total runs: 153)
 - [japan-used-instrument-market-scraper](https://apify.com/store/actors/japan-used-instrument-market-scraper) — Apify Store actor (total runs: 152)
 - [japan-anime-figure-price-data](https://apify.com/store/actors/japan-anime-figure-price-data) — Apify Store actor (total runs: 132)
+---
+
+## Apify Store
+
+このリポジトリの Actor は [Apify Store](https://apify.com/fruitful_quintessence) で公開中です。
+日本の EC・市場データ収集（Mercari, Yahoo Auctions, Rakuten, SUUMO, DLsite 等）に対応した Apify Actor ディレクトリです。
+
+**Search keywords**: Japan market data, Japanese e-commerce scraping, Apify actors, mercari scraper, rakuten scraper, yahoo auctions japan, suumo real estate, dlsite scraper
+
